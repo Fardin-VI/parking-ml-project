@@ -1,6 +1,6 @@
-**Parking Occupancy Prediction using Machine Learning
+**Parking Occupancy Prediction using Machine Learning**
 
-A Smart Urban Management Approach**
+**A Smart Urban Management Approach**
 
 Overview
 
