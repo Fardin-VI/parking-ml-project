@@ -1,0 +1,19 @@
+----- For better performance
+
+use coolab : https://colab.research.google.com
+
+or
+
+download "anaconda package" for free and use jupyter: https://www.anaconda.com
+
+
+----- You need to install these packages. -----
+
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+jupyter
